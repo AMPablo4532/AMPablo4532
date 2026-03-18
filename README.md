@@ -1,10 +1,20 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Juan Pablo
 
-💻 Desarrollador Full Stack
+💻 `Ingeniero informático en progreso...`
+
 🌎 El Salvador
+
 🚀 Apasionado por crear aplicaciones web y móviles modernas
 
 ---
+
+## ⚡ Sobre mí
+
+* Siempre aprendiendo nuevas tecnologías 📚
+* Interesado en desarrollo web, apps móviles y backend
+* Me gusta resolver problemas y construir cosas útiles
+* Actualmente me encuentro estudiando en la Universidad Centroamericana José Simeón Cañas
+* Estudie técnico en desarrollo de software en el Instituto Técnico Ricaldone
 
 ## 🧰 Tecnologías y herramientas
 
@@ -28,36 +38,10 @@
 * C#
 * Java ☕
 * Kotlin 📱
-
----
-
-## 📊 Mis estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=radical)
-
----
-
-## 📌 Proyectos destacados
-
-🔹 [Nombre del proyecto](https://github.com/TU_USUARIO/proyecto1)
-🔹 [Nombre del proyecto](https://github.com/TU_USUARIO/proyecto2)
-🔹 [Nombre del proyecto](https://github.com/TU_USUARIO/proyecto3)
-
 ---
 
 ## 📫 Contáctame
 
-* Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
-* LinkedIn: https://linkedin.com/in/tuusuario
-
----
-
-## ⚡ Sobre mí
-
-* Siempre aprendiendo nuevas tecnologías 📚
-* Interesado en desarrollo web, apps móviles y backend
-* Me gusta resolver problemas y construir cosas útiles
+* Email: [thehills@gmail.com](mailto:thehills@gmail.com)
 
 ---
